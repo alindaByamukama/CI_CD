@@ -1,0 +1,18 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "docker",
+    "node.js"
+  ],
+  "author": "Alinda_Byamukama_Group-One <alindabyamukama@gmail.com>",
+  "license": "ISC"
+}
